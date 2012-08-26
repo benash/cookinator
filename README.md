@@ -12,4 +12,3 @@
 
     options = { :dbpath => '/Users/asdf/cookies.sqlite' }
 
-
